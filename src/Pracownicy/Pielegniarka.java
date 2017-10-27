@@ -9,8 +9,8 @@ public class Pielegniarka extends Main {
 
     private int nadgodziny;
 
-    public Pielegniarka(String imie, String nazwisko, double wyplata) {
-        super(imie, nazwisko, wyplata);
+    public Pielegniarka(String imie, String nazwisko) {
+        super(imie, nazwisko);
         nadgodziny = 0;
     }
 
