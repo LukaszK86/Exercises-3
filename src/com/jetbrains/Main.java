@@ -9,11 +9,10 @@ public class Main {
     private String nazwisko;
     private double wyplata;
 
-    public Main (String imie, String nazwisko, double wyplata){
+    public Main (String imie, String nazwisko){
         this.imie = imie;
         this.nazwisko = nazwisko;
-        this.wyplata = wyplata;
-        System.out.println("Imie to " + getImie() + " Imie to " + imie + " wyplata " +getWyplata() + " wyplata " + wyplata );
+        System.out.println("Imie to " + getImie() + " Imie to " + imie );
     }
 
     String getImie()

@@ -7,7 +7,7 @@ public class Lekarz extends Main {
     private double premia;
 
     public Lekarz(String imie, String nazwisko, double wyplata) {
-        super(imie, nazwisko, wyplata);
+        super(imie, nazwisko);
         premia = 0;
     }
 
