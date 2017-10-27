@@ -31,5 +31,5 @@ public class Main {
 pielegniarka.setNadgodziny(10);
 pielegniarka.getNadgodziny();
 
-    }
+    }   
 }

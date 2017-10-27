@@ -18,4 +18,5 @@ public class Lekarz extends Main {
         premia = d;
     }
 
+
 }
