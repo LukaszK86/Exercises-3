@@ -31,5 +31,6 @@ public class Main {
 pielegniarka.setNadgodziny(10);
 pielegniarka.getNadgodziny();
 
+        System.out.println("Koniec programu");
     }
 }
